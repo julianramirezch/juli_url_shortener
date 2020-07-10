@@ -23,7 +23,7 @@ Description
 
 ### Execution:
 > In your browser go www.juli.co:8000
-    
+![](https://github.com/julianramirezch/juli_url_shortener/blob/master/src/shortener.gif)    
 
 
 ## Author: 
