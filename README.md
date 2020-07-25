@@ -7,7 +7,7 @@
 
 Description
 
->I create a URL shortener service in Django web framework. I use python as principal language and create HTML templates with Bootsrap.
+>I create a URL shortener service in Django web framework as part of Udemy course project "Try Django 1.10 | Create a URL Shortening Service by Justin Mitchel" . I use python as principal language and create HTML templates with Bootsrap.
 ---
 ### Program download
 >To download this program, you must go to clone this github repo:
